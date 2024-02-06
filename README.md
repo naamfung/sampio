@@ -7,7 +7,7 @@
 3. sj jbp fat——输入法
 4. 此为「wbi」基于「jj」粵拼之简「gan」拼
 5. 每字不带调「diu」不超过「uh」三键「gin」，带「dai」调不超过四键
-6. 使用26只「zgk」英文字母输入
+6. 使「si」用「juo」26只「zgk」英文字母输入
 
 
 # 键「gin」位「wbi」：
@@ -33,10 +33,8 @@
 
 # 说「sjt」明「mio」：
 
-本项目其实是袖珍粤拼的简体中文说明版，
-
-这个方案应是以韵头、韵腹、韵尾来分音。
+本「bun」项「hho」目「muk」其「kgi」实「sbt」是「si」袖「zbu」珍「zbn」粤「jjt」拼「pio」的简「gan」体「tbi」中「zuo」文「mbn」说「sjt」明「mio」版「ban」，
 
 由「jbu」于「jj」原「jjn」始「ci」作「zhk」者「zg」久「gbu」未「mgi」更「gbo」新「sbn」，
 
-故而接手维护。
+故「gu」而「ji」接「zip」手「sbu」维「wbi」护「wu」。
