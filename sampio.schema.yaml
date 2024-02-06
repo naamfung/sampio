@@ -2,15 +2,16 @@
 # encoding: utf-8
 
 schema:
-  schema_id: jyutping_compact
-  name: 袖珍粵拼
-  version: "0.9.5"
+  schema_id: sampio
+  name: 三拼粤语
+  version: "0.9.6"
   author:
     - 雪齋 <lyc20041@gmail.com>
+    - JORSION <JORSION@HOTMAIL.COM>
   description: |
     採用「香港語言學會粵語拼音方案」
     簡拼不帶聲調三碼以內，帶聲調四碼以內
-    僅使用個字母輸入
+    僅使用個位字母輸入
   dependencies:
     - luna_pinyin
 
@@ -72,7 +73,7 @@ speller:
     - abbrev/^([a-z]).*[qxrevy]$/$1/
 
 translator:
-  dictionary: jyutping_compact
+  dictionary: sampio
   spelling_hints: 6
   preedit_format:
     - xform/ /  /
