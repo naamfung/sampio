@@ -33,7 +33,7 @@
 
 # 说「sjt」明「mio」：
 
-本「bun」项「hho」目「muk」其「kgi」实「sbt」是「si」袖「zbu」珍「zbn」粤「jjt」拼「pio」的简「gan」体「tbi」中「zuo」文「mbn」说「sjt」明「mio」版「ban」，
+本「bun」项「hho」目「muk」其「kgi」实「sbt」是「si」袖「zbu」珍「zbn」粤「jjt」拼「pio」的「dik」简「gan」体「tbi」中「zuo」文「mbn」说「sjt」明「mio」版「ban」，
 
 由「jbu」于「jj」原「jjn」始「ci」作「zhk」者「zg」久「gbu」未「mgi」更「gbo」新「sbn」，
 
