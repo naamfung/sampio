@@ -4,7 +4,7 @@
 # 由 Unihan 語音數據庫整理所得
 # 區分 gom/gam
 # 雪齋 <lyc20041@gmail.com>
-#
+# JORSION AT HOTMAIL COM
 ---
 name: sampio
 version: "1.0"
@@ -9290,46 +9290,46 @@ columns:
 𣚺	hong6
 桁	hong6	0%
 汗	hong6	5%
-䁍	hop1
-䁯	hop1
-匼	hop1
-帢	hop1
-恰	hop1
-搕	hop1
-洽	hop1	5%
-䶗	hop3
-㛍	hop6
-㡊	hop6
-㤲	hop6
-㥺	hop6
-㪉	hop6
-㰰	hop6
-㰼	hop6
-䢔	hop6
-侠	hop6
-俠	hop6
-合	hop6
-嗑	hop6
-峆	hop6
-峇	hop6
-搕	hop6
-榼	hop6
-欱	hop6
-溘	hop6
-烚	hop6
-盍	hop6
-盒	hop6
-瞌	hop6
-磕	hop6
-郃	hop6
-鉿	hop6
-铪	hop6
-闔	hop6
-阖	hop6
-頜	hop6
-洽	hop6	0%
-蓋	hop6	5%
-閤	hop6	5%
+䁍	hap1
+䁯	hap1
+匼	hap1
+帢	hap1
+恰	hap1
+搕	hap1
+洽	hap1	5%
+䶗	hap3
+㛍	hap6
+㡊	hap6
+㤲	hap6
+㥺	hap6
+㪉	hap6
+㰰	hap6
+㰼	hap6
+䢔	hap6
+侠	hap6
+俠	hap6
+合	hap6
+嗑	hap6
+峆	hap6
+峇	hap6
+搕	hap6
+榼	hap6
+欱	hap6
+溘	hap6
+烚	hap6
+盍	hap6
+盒	hap6
+瞌	hap6
+磕	hap6
+郃	hap6
+鉿	hap6
+铪	hap6
+闔	hap6
+阖	hap6
+頜	hap6
+洽	hap6	0%
+蓋	hap6	5%
+閤	hap6	5%
 㓤	hot3
 㓭	hot3
 㪡	hot3
@@ -42445,11 +42445,11 @@ IP	ai1 pi1
 不寒而慄	bat1 hon4 ji4 leot6
 不吭一聲	bat1 hong4 jat1 sing1
 不吭聲	bat1 hong4 sing1
-不合	bat1 hop6
-不合標準	bat1 hop6 biu1 zeon2
-不合規定	bat1 hop6 kwai1 ding6
-不合時宜	bat1 hop6 si4 ji4
-不合作	bat1 hop6 zok3
+不合	bat1 hap6
+不合標準	bat1 hap6 biu1 zeon2
+不合規定	bat1 hap6 kwai1 ding6
+不合時宜	bat1 hap6 si4 ji4
+不合作	bat1 hap6 zok3
 不好	bat1 hou2
 不忍	bat1 jan2
 不忍心	bat1 jan2 sam1
@@ -42507,7 +42507,7 @@ IP	ai1 pi1
 不問前因後果	bat1 man6 cin4 jan1 hau6 gwo2
 不問靑紅皂白	bat1 man6 cing1 hung4 zou6 baak6
 不問是非曲直	bat1 man6 si6 fei1 kuk1 zik6
-不謀而合	bat1 mau5 ji4 hop6
+不謀而合	bat1 mau5 ji4 hap6
 不寐	bat1 mei6
 不免	bat1 min5
 不明不白	bat1 ming4 bat1 baak6
@@ -42681,7 +42681,7 @@ IP	ai1 pi1
 被害人	bei6 hoi6 jan4
 被控	bei6 hung3
 備而不用	bei6 ji4 bat1 jung6
-鼻煙盒	bei6 jin1 hop6
+鼻煙盒	bei6 jin1 hap6
 鼻咽癌	bei6 jin1 ngaam4
 被困	bei6 kwan3
 避唔切	bei6 m4 cit3
@@ -42690,7 +42690,7 @@ IP	ai1 pi1
 鼻塞	bei6 sak1
 餅乾	beng2 gon1
 餅乾店	beng2 gon1 dim3
-餅乾盒	beng2 gon1 hop6
+餅乾盒	beng2 gon1 hap6
 餅印	beng2 jan3
 餅咭	beng2 kat1
 餅師	beng2 si1
@@ -43107,7 +43107,7 @@ book位	buk1 wai2
 餐車	caan1 ce1
 餐費	caan1 fai3
 餐券	caan1 gyun3
-餐盒	caan1 hop6
+餐盒	caan1 hap6
 餐飲	caan1 jam2
 餐飲業	caan1 jam2 jip6
 餐牌	caan1 paai2
@@ -43310,7 +43310,7 @@ book位	buk1 wai2
 臭錢	cau3 cin4
 臭豆腐	cau3 dau6 fu6
 臭亨亨	cau3 hang1 hang1
-湊合	cau3 hop6
+湊合	cau3 hap6
 臭鼬	cau3 jau6
 湊蹺	cau3 kiu2
 臭饠	cau3 lo3
@@ -43703,7 +43703,7 @@ check吓	cek1 haa5
 前人種樹	cin4 jan4 zung2 syu6
 前言不對後語	cin4 jin4 bat1 deoi3 hau6 jyu5
 纏繞	cin4 jiu2
-前仰後合	cin4 joeng5 hau6 hop6
+前仰後合	cin4 joeng5 hau6 hap6
 前院	cin4 jyun6
 前期	cin4 kei4
 前期損益	cin4 kei4 syun2 jik1
@@ -43881,7 +43881,7 @@ check吓	cek1 haa5
 懲惡勸善	cing4 ok3 hyun3 sin6
 呈上	cing4 soeng6
 成數	cing4 sou3
-情投意合	cing4 tau4 ji3 hop6
+情投意合	cing4 tau4 ji3 hap6
 晴天	cing4 tin1
 情同手足	cing4 tung4 sau2 zuk1
 懲治	cing4 zi6
@@ -43898,9 +43898,9 @@ check吓	cek1 haa5
 切割機	cit3 got3 gei1
 切口	cit3 hau2
 切開	cit3 hoi1
-切合	cit3 hop6
-切合實際	cit3 hop6 sat6 zai3
-切合需要	cit3 hop6 seoi1 jiu3
+切合	cit3 hap6
+切合實際	cit3 hap6 sat6 zai3
+切合需要	cit3 hap6 seoi1 jiu3
 切入	cit3 jap6
 切肉	cit3 juk6
 切肉刀	cit3 juk6 dou1
@@ -44055,7 +44055,7 @@ check吓	cek1 haa5
 長氣	coeng4 hei3
 長氣袋	coeng4 hei3 doi6
 長吁短歎	coeng4 heoi1 dyun2 taan3
-場合	coeng4 hop6
+場合	coeng4 hap6
 長揖	coeng4 jap1
 長椅	coeng4 ji2
 長形	coeng4 jing4
@@ -44582,7 +44582,7 @@ check吓	cek1 haa5
 打荷包	daa2 ho4 baau1
 打開	daa2 hoi1
 打鼾	daa2 hon4
-打瞌睡	daa2 hop6 seoi6
+打瞌睡	daa2 hap6 seoi6
 打孔	daa2 hung2
 打孔機	daa2 hung2 gei1
 打印	daa2 jan3
@@ -44989,7 +44989,7 @@ check吓	cek1 haa5
 疍家	daan6 gaa1
 彈夾	daan6 gaap3
 蛋糕	daan6 gou1
-蛋糕盒	daan6 gou1 hop6
+蛋糕盒	daan6 gou1 hap6
 彈弓	daan6 gung1
 蛋捲	daan6 gyun2
 彈匣	daan6 haap6
@@ -45895,7 +45895,7 @@ AA制	ei1 ei1 zai3
 化學肥料	faa3 hok6 fei4 liu6
 化學家	faa3 hok6 gaa1
 化學平衡	faa3 hok6 ping4 hang4
-化合物	faa3 hop6 mat6
+化合物	faa3 hap6 mat6
 化名	faa3 ming4
 化外	faa3 ngoi6
 化外之民	faa3 ngoi6 zi1 man4
@@ -46032,7 +46032,7 @@ AA制	ei1 ei1 zai3
 飯匙	faan6 ci4
 犯錯	faan6 co3
 飯蓋	faan6 goi3
-飯盒	faan6 hop6
+飯盒	faan6 hap6
 飯量	faan6 loeng6
 範文	faan6 man4
 飯粒	faan6 nap1
@@ -46062,7 +46062,7 @@ AA制	ei1 ei1 zai3
 發吽哣	faat3 ngau6 dau6
 發票	faat3 piu3
 發泡膠	faat3 pou5 gaau1
-發泡膠盒	faat3 pou5 gaau1 hop2
+發泡膠盒	faat3 pou5 gaau1 hap2
 發生	faat3 sang1
 發射	faat3 se6
 發洩	faat3 sit3
@@ -46124,7 +46124,7 @@ AA制	ei1 ei1 zai3
 分局	fan1 guk6
 分館	fan1 gun2
 分工	fan1 gung1
-分工合作	fan1 gung1 hop6 zok3
+分工合作	fan1 gung1 hap6 zok3
 分光	fan1 gwong1
 分校	fan1 haau6
 分曉	fan1 hiu2
@@ -46229,7 +46229,7 @@ AA制	ei1 ei1 zai3
 粉刺	fan2 ci3
 粉竇	fan2 dau6
 粉檔	fan2 dong3
-粉盒	fan2 hop6
+粉盒	fan2 hap6
 粉紅色	fan2 hung4 sik1
 粉友	fan2 jau2
 粉絲	fan2 si1
@@ -46528,7 +46528,7 @@ fax	fet1 si2
 副總司令	fu3 zung2 si1 ling6
 副主任	fu3 zyu2 jam6
 符弗	fu4 fit1
-符合	fu4 hop6
+符合	fu4 hap6
 符號	fu4 hou6
 婦道	fu5 dou6
 婦科醫生	fu5 fo1 ji1 sang1
@@ -46716,7 +46716,7 @@ fax	fet1 si2
 逢場作戲	fung4 coeng4 zok3 hei3
 縫隙	fung4 gwik1
 縫起	fung4 hei2
-縫合	fung4 hop6
+縫合	fung4 hap6
 縫好	fung4 hou2
 縫紉	fung4 jan6
 逢迎	fung4 jing4
@@ -46982,7 +46982,7 @@ fax	fet1 si2
 艱難	gaan1 naan4
 簡單	gaan2 daan1
 簡簡單單	gaan2 gaan2 daan1 daan1
-梘盒	gaan2 hop6
+梘盒	gaan2 hap6
 揀飲擇食	gaan2 jam2 zaak6 sik6
 梘液	gaan2 jik6
 梘片	gaan2 pin2
@@ -47025,7 +47025,7 @@ fax	fet1 si2
 膠袋	gaau1 doi2
 交更	gaau1 gaang1
 交行貨啫	gaau1 hong4 fo3 ze1
-膠盒	gaau1 hop6
+膠盒	gaau1 hap6
 交易	gaau1 jik6
 郊區	gaau1 keoi1
 膠箍	gaau1 ku1
@@ -47288,7 +47288,7 @@ fax	fet1 si2
 糾結	gau2 git3
 狗叫聲	gau2 giu3 sing1
 糾葛	gau2 got3
-苟合	gau2 hop6
+苟合	gau2 hap6
 狗血噴頭	gau2 hyut3 pan3 tau4
 久仰	gau2 joeng5
 久仰大名	gau2 joeng5 daai6 ming4
@@ -47479,9 +47479,9 @@ fax	fet1 si2
 劍道	gim3 dou6
 劍俠	gim3 haap6
 劍葉	gim3 jip6
-勤儉	gim6 kan4
-勤儉持家	gim6 kan4 ci4 gaa1
-勤儉樸實	gim6 kan4 pok3 sat6
+勤儉 kan4 gim6
+勤儉持家 kan4 gim6 ci4 gaa1
+勤儉樸實	kan4 gim6 pok3 sat6
 儉樸	gim6 pok3
 儉省	gim6 saang2
 堅稱	gin1 cing1
@@ -47673,10 +47673,10 @@ fax	fet1 si2
 結恭	git3 gung1
 結果	git3 gwo2
 結核	git3 hat6
-結合	git3 hop6
-結合點	git3 hop6 dim2
-結合律	git3 hop6 leot6
-結合能	git3 hop6 nang4
+結合	git3 hap6
+結合點	git3 hap6 dim2
+結合律	git3 hap6 leot6
+結合能	git3 hap6 nang4
 結義	git3 ji6
 結業	git3 jip6
 結業典禮	git3 jip6 din2 lai5
@@ -48235,7 +48235,7 @@ fax	fet1 si2
 供水	gung1 seoi2
 公私不分	gung1 si1 bat1 fan1
 公私分明	gung1 si1 fan1 ming4
-公私合營	gung1 si1 hop6 jing4
+公私合營	gung1 si1 hap6 jing4
 公使	gung1 si3
 公事喼	gung1 si6 gip1
 功成名遂	gung1 sing4 ming4 seoi6
@@ -48618,8 +48618,8 @@ fax	fet1 si2
 光度表	gwong1 dou6 biu2
 光度計	gwong1 dou6 gai3
 光復	gwong1 fuk6
-光合	gwong1 hop6
-光合作用	gwong1 hop6 zok3 jung6
+光合	gwong1 hap6
+光合作用	gwong1 hap6 zok3 jung6
 光溜	gwong1 lau6
 光溜溜	gwong1 lau6 lau6
 桄榔	gwong1 long4
@@ -48701,7 +48701,7 @@ fax	fet1 si2
 下下之策	haa6 haa6 zi1 caak3
 下限	haa6 haan6
 下鄉	haa6 hoeng1
-下頜骨	haa6 hop6 gwat1
+下頜骨	haa6 hap6 gwat1
 下任	haa6 jam6
 下人	haa6 jan4
 下一步	haa6 jat1 bou6
@@ -48900,13 +48900,13 @@ fax	fet1 si2
 巧辯	haau2 bin6
 拷打	haau2 daa2
 巧奪天工	haau2 dyut6 tin1 gung1
-巧合	haau2 hop6
+巧合	haau2 hap6
 考醫生牌	haau2 ji1 sang1 paai4
 巧言	haau2 jin4
 巧言令色	haau2 jin4 ling6 sik1
 巧遇	haau2 jyu6
 考唔到	haau2 m4 dou2
-考唔合格	haau2 m4 hop6 gaak3
+考唔合格	haau2 m4 hap6 gaak3
 拷問	haau2 man6
 巧妙	haau2 miu6
 巧手	haau2 sau2
@@ -49109,7 +49109,7 @@ fax	fet1 si2
 核仁	hat6 jan4
 核驗	hat6 jim6
 核燃料	hat6 jin4 liu6
-核融合	hat6 jung4 hop6
+核融合	hat6 jung4 hap6
 轄區	hat6 keoi1
 核力	hat6 lik6
 核裂變	hat6 lit6 bin3
@@ -49255,7 +49255,7 @@ fax	fet1 si2
 起跑線	hei2 paau2 sin3
 喜新厭舊	hei2 san1 jim3 gau6
 起死回生	hei2 sei2 wui4 sang1
-起承轉合	hei2 sing4 zyun2 hop6
+起承轉合	hei2 sing4 zyun2 hap6
 起上嚟	hei2 soeng5 lei4
 起枕	hei2 zam2
 豈止	hei2 zi2
@@ -49431,7 +49431,7 @@ fax	fet1 si2
 興高采烈	hing3 gou1 coi2 lit6
 慶功會	hing3 gung1 wui6
 焮起嚟	hing3 hei2 lei4
-焮烚烚	hing3 hop6 hop6
+焮烚烚	hing3 hap6 hap6
 焮熱	hing3 jit6
 興味	hing3 mei6
 興味無窮	hing3 mei6 mou4 kung4
@@ -49556,7 +49556,7 @@ fax	fet1 si2
 賀年咭	ho6 nin4 kat1
 荷載	ho6 zoi3
 香餅	hoeng1 beng2
-香粉盒	hoeng1 fan2 hop6
+香粉盒	hoeng1 fan2 hap6
 香港地	hoeng1 gong2 dei2
 鄉下	hoeng1 haa2
 鄉下佬	hoeng1 haa2 lou2
@@ -49564,8 +49564,8 @@ fax	fet1 si2
 鄉下婆	hoeng1 haa2 po2
 鄉下仔	hoeng1 haa2 zai2
 鄉下	hoeng1 haa6
-香盒	hoeng1 hop6
-香煙盒	hoeng1 jin1 hop6
+香盒	hoeng1 hap6
+香煙盒	hoeng1 jin1 hap6
 鄉里	hoeng1 lei5
 鄉里鬼鬼	hoeng1 lei5 gwai2 gwai2
 香料	hoeng1 liu6
@@ -49804,63 +49804,63 @@ fax	fet1 si2
 吭聲	hong4 sing1
 行話	hong4 waa2
 項鏈	hong6 lin4
-恰當	hop1 dong3
-恰好	hop1 hou2
-瞌眼瞓	hop1 ngaan5 fan3
-合辦	hop6 baan6
-合併	hop6 bing3
-合情	hop6 cing4
-合情合理	hop6 cing4 hop6 lei5
-合轍	hop6 cit3
-合唱團	hop6 coeng3 tyun4
-合訂本	hop6 ding3 bun2
-合法	hop6 faat3
-合法化	hop6 faat3 faa3
-合肥	hop6 fei4
-合夥	hop6 fo2
-合夥人	hop6 fo2 jan4
-闔府安康	hop6 fu2 on1 hong1
-合乎	hop6 fu4
-合乎邏輯	hop6 fu4 lo4 cap1
-闔家	hop6 gaa1
-合家歡	hop6 gaa1 fun1
-闔家歡	hop6 gaa1 fun1
-合格	hop6 gaak3
-合計	hop6 gai3
-合久必分	hop6 gau2 bit1 fan1
-合金	hop6 gom1
-合股	hop6 gu2
-合好	hop6 hou2
-合而爲一	hop6 ji4 wai4 jat1
-合演	hop6 jin2
-合影	hop6 jing2
-合營	hop6 jing4
-合約	hop6 joek3
-和約	hop6 joek3
-合流	hop6 lau4
-合理	hop6 lei5
-合理化	hop6 lei5 faa3
-合皮	hop6 pei4
-合身	hop6 san1
-合適	hop6 sik1
-合成	hop6 sing4
-合成纖維	hop6 sing4 cim1 wai4
-合成物	hop6 sing4 mat6
-合成體	hop6 sing4 tai2
-合算	hop6 syun3
-合桃	hop6 tou4
-合桃酥	hop6 tou4 sou1
-合同	hop6 tung4
-合胃口	hop6 wai6 hau2
-盒仔飯	hop6 zai2 faan6
-合奏	hop6 zau3
-合奏曲	hop6 zau3 kuk1
-合資	hop6 zi1
-合照	hop6 ziu3
-合照留念	hop6 ziu3 lau4 nim6
-合作	hop6 zok3
-合作社	hop6 zok3 se5
-合租	hop6 zou1
+恰當	hap1 dong3
+恰好	hap1 hou2
+瞌眼瞓	hap1 ngaan5 fan3
+合辦	hap6 baan6
+合併	hap6 bing3
+合情	hap6 cing4
+合情合理	hap6 cing4 hap6 lei5
+合轍	hap6 cit3
+合唱團	hap6 coeng3 tyun4
+合訂本	hap6 ding3 bun2
+合法	hap6 faat3
+合法化	hap6 faat3 faa3
+合肥	hap6 fei4
+合夥	hap6 fo2
+合夥人	hap6 fo2 jan4
+闔府安康	hap6 fu2 on1 hong1
+合乎	hap6 fu4
+合乎邏輯	hap6 fu4 lo4 cap1
+闔家	hap6 gaa1
+合家歡	hap6 gaa1 fun1
+闔家歡	hap6 gaa1 fun1
+合格	hap6 gaak3
+合計	hap6 gai3
+合久必分	hap6 gau2 bit1 fan1
+合金	hap6 gom1
+合股	hap6 gu2
+合好	hap6 hou2
+合而爲一	hap6 ji4 wai4 jat1
+合演	hap6 jin2
+合影	hap6 jing2
+合營	hap6 jing4
+合約	hap6 joek3
+和約	hap6 joek3
+合流	hap6 lau4
+合理	hap6 lei5
+合理化	hap6 lei5 faa3
+合皮	hap6 pei4
+合身	hap6 san1
+合適	hap6 sik1
+合成	hap6 sing4
+合成纖維	hap6 sing4 cim1 wai4
+合成物	hap6 sing4 mat6
+合成體	hap6 sing4 tai2
+合算	hap6 syun3
+合桃	hap6 tou4
+合桃酥	hap6 tou4 sou1
+合同	hap6 tung4
+合胃口	hap6 wai6 hau2
+盒仔飯	hap6 zai2 faan6
+合奏	hap6 zau3
+合奏曲	hap6 zau3 kuk1
+合資	hap6 zi1
+合照	hap6 ziu3
+合照留念	hap6 ziu3 lau4 nim6
+合作	hap6 zok3
+合作社	hap6 zok3 se5
+合租	hap6 zou1
 好吖	hou2 aa1
 好呀	hou2 aa3
 好逼人	hou2 bik1 jan4
@@ -50500,7 +50500,7 @@ X光	ik1 si4 gwong1
 一年四季	jat1 nin4 sei3 gwai3
 一怒之下	jat1 nou6 zi1 haa6
 一派胡言	jat1 paai3 wu4 jin4
-一拍即合	jat1 paak3 zik1 hop6
+一拍即合	jat1 paak3 zik1 hap6
 一炮而紅	jat1 paau3 ji4 hung4
 一篇文章	jat1 pin1 man4 zoeng1
 一片漆黑	jat1 pin3 cat1 hak1
@@ -50842,7 +50842,7 @@ X光	ik1 si4 gwong1
 釉陶	jau6 tou4
 右轉	jau6 zyun3
 野鴨	je5 aap3
-野百合	je5 baak3 hop6
+野百合	je5 baak3 hap6
 惹畀	je5 bei2
 野地	je5 dei6
 野火燒不盡	je5 fo2 siu1 bat1 zeon6
@@ -51212,7 +51212,7 @@ X光	ik1 si4 gwong1
 言行不符	jin4 hang6 bat1 fu4
 言行不一	jin4 hang6 bat1 jat1
 言行舉止	jin4 hang6 geoi2 zi2
-言行合一	jin4 hang6 hop6 jat1
+言行合一	jin4 hang6 hap6 jat1
 言行一致	jin4 hang6 jat1 zi3
 言行如一	jin4 hang6 jyu4 jat1
 燃起	jin4 hei2
@@ -51333,8 +51333,8 @@ X光	ik1 si4 gwong1
 凝固	jing4 gu3
 迎客	jing4 haak3
 迎候	jing4 hau6
-迎合	jing4 hop6
-迎合人心	jing4 hop6 jan4 sam1
+迎合	jing4 hap6
+迎合人心	jing4 hap6 jan4 sam1
 迎刃而解	jing4 jan6 ji4 gaai2
 形而上	jing4 ji4 soeng6
 形而上學	jing4 ji4 soeng6 hok6
@@ -51573,8 +51573,8 @@ X光	ik1 si4 gwong1
 擁擠	jung2 zai1
 融解	jung4 gaai2
 融解點	jung4 gaai2 dim2
-融洽	jung4 hop1
-融合	jung4 hop6
+融洽	jung4 hap1
+融合	jung4 hap6
 容易	jung4 ji6
 鱅魚	jung4 jyu4
 容量	jung4 loeng6
@@ -51877,7 +51877,7 @@ X光	ik1 si4 gwong1
 縣長	jyun6 zoeng2
 月白風淸	jyut6 baak6 jyut6 mun5
 月餅	jyut6 beng2
-月餅盒	jyut6 beng2 hop6
+月餅盒	jyut6 beng2 hap6
 閱讀	jyut6 duk6
 閱讀器	jyut6 duk6 hei3
 閱讀室	jyut6 duk6 sat1
@@ -52584,7 +52584,7 @@ quali	ko1 li2
 禮拜四	lai5 baai3 sei3
 禮多人不怪	lai5 do1 jan4 bat1 gwaai3
 禮輕人意重	lai5 hing1 jan4 ji3 cung5
-禮盒	lai5 hop6
+禮盒	lai5 hap6
 禮賢下士	lai5 jin4 haa6 si6
 禮尚往來	lai5 soeng6 wong5 loi4
 禮數	lai5 sou3
@@ -52706,8 +52706,8 @@ label	lei1 bou2
 離經叛道	lei4 ging1 bun6 dou6
 離校	lei4 haau6
 離鄉背井	lei4 hoeng1 bui3 zing2
-離合	lei4 hop6
-離合器	lei4 hop6 hei3
+離合	lei4 hap6
+離合器	lei4 hap6 hei3
 離任	lei4 jam6
 離遠	lei4 jyun5
 離奇	lei4 kei4
@@ -53132,7 +53132,7 @@ label	lei1 bou2
 落後	lok6 hau6
 落去	lok6 heoi3
 落鄉	lok6 hoeng1
-樂合彩	lok6 hop6 coi2
+樂合彩	lok6 hap6 coi2
 落空	lok6 hung1
 落日	lok6 jat6
 樂意	lok6 ji3
@@ -53313,7 +53313,7 @@ label	lei1 bou2
 六角	luk6 gok3
 六角形	luk6 gok3 jing4
 錄供	luk6 gung1
-六合彩	luk6 hop6 coi4
+六合彩	luk6 hap6 coi4
 錄音帶	luk6 jam1 daai2
 錄影帶	luk6 jing2 daai2
 錄影機	luk6 jing2 gei1
@@ -53368,7 +53368,7 @@ label	lei1 bou2
 戀愛	lyun2 oi3
 戀糖	lyun2 tong2
 戀棧	lyun2 zaan6
-聯合國	lyun4 hop6 gwok3
+聯合國	lyun4 hap6 gwok3
 聯誼	lyun4 ji4
 聯絡	lyun4 lok3
 聯袂飾演	lyun4 mai6 sik1 jin2
@@ -53482,9 +53482,9 @@ label	lei1 bou2
 唔响度	m4 hoeng2 dou6
 唔開心	m4 hoi1 sam1
 唔開胃	m4 hoi1 wai6
-唔合法	m4 hop6 faat3
-唔合理	m4 hop6 lei5
-唔合適	m4 hop6 sik1
+唔合法	m4 hap6 faat3
+唔合理	m4 hap6 lei5
+唔合適	m4 hap6 sik1
 唔好	m4 hou2	1000
 唔好飲	m4 hou2 jam2
 唔好意思	m4 hou2 ji3 si3
@@ -54063,7 +54063,7 @@ miss	mi1 si4
 面頰	min6 gaap3
 面告	min6 gou3
 面口差	min6 hau2 caa1
-面洽	min6 hop1
+面洽	min6 hap1
 面紅	min6 hung4
 面紅耳赤	min6 hung4 ji5 cek3
 面紅耳熱	min6 hung4 ji5 jit6
@@ -54443,8 +54443,8 @@ miss	mi1 si4
 無關緊要	mou5 gwaan1 gan2 jiu3
 武俠片	mou5 haap6
 冇興趣	mou5 hing3 ceoi3
-武俠	mou5 hop6
-武俠小說	mou5 hop6 siu2 syut3
+武俠	mou5 hap6
+武俠小說	mou5 hap6 siu2 syut3
 冇癮	mou5 jan2
 冇人敢聲	mou5 jan4 gom2 seng1
 冇人吼	mou5 jan4 hau1
@@ -54740,7 +54740,7 @@ miss	mi1 si4
 匿入房	nei1 jap6 fong2
 匿埋	nei1 maai4
 彌補	nei4 bou2
-彌合	nei4 hop6
+彌合	nei4 hap6
 你出去先	nei5 ceot1 heoi3 sin1
 你出去	nei5 ceot1 heoi4
 你講嘢呀	nei5 gong2 je5 aa4
@@ -54861,7 +54861,7 @@ miss	mi1 si4
 瓦罉	ngaa5 caang1
 雅稱	ngaa5 cing1
 雅興	ngaa5 hing3
-瓦通紙盒	ngaa5 tung1 zi2 hop6
+瓦通紙盒	ngaa5 tung1 zi2 hap6
 掗埞	ngaa6 deng6
 掗開	ngaa6 hoi1
 掗開對腳	ngaa6 hoi1 deoi3 goek3
@@ -54918,7 +54918,7 @@ miss	mi1 si4
 眼科醫生	ngaan5 fo1 ji1 sang1
 眼闊頭窄	ngaan5 fut3 tou5 zaak3
 眼鏡架	ngaan5 geng3 gaa2
-眼鏡盒	ngaan5 geng3 hop6
+眼鏡盒	ngaan5 geng3 hap6
 眼鏡框	ngaan5 geng3 kwaang1
 眼鏡蛇	ngaan5 geng3 se4
 眼瞼	ngaan5 gim2
@@ -55061,7 +55061,7 @@ miss	mi1 si4
 牛腱	ngau4 zin2
 牛精	ngau4 zing1
 藕斷絲連	ngau5 dyun6 si1 lin4
-偶合	ngau5 hop6
+偶合	ngau5 hap6
 偶一爲之	ngau5 jat1 wai4 zi1
 偶然間	ngau5 jin4 gaan1
 偶數	ngau5 sou3
@@ -55965,7 +55965,7 @@ PTU	pi1 ti1 jiu1
 配角	pui3 gok3
 佩掛	pui3 gwaa3
 配戲	pui3 hei3
-配合	pui3 hop6
+配合	pui3 hap6
 配音員	pui3 jam1 jyun4
 佩衽	pui3 jam6
 配有	pui3 jau5
@@ -56106,7 +56106,7 @@ PTU	pi1 ti1 jiu1
 三國時代	saam1 gwok3 si4 doi6
 三國誌	saam1 gwok3 zi3
 三俠五義	saam1 haap6 ng5 ji6
-三合會	saam1 hop6 wui6
+三合會	saam1 hap6 wui6
 三人行	saam1 jan4 hang4
 三日香	saam1 jat6 hoeng1
 三日新	saam1 jat6 san1
@@ -57048,7 +57048,7 @@ PTU	pi1 ti1 jiu1
 四開本	sei3 hoi1 bun2
 四海	sei3 hoi2
 四海爲家	sei3 hoi2 wai4 gaa1
-四合院	sei3 hop6 jyun6
+四合院	sei3 hap6 jyun6
 四月	sei3 jyut6
 四月份	sei3 jyut6 fan6
 四級	sei3 kap1
@@ -57246,7 +57246,7 @@ PTU	pi1 ti1 jiu1
 信以爲眞	seon3 ji5 wai4 zan1
 信仰	seon3 joeng5
 信仰自由	seon3 joeng5 zi6 jau4
-信用合作社	seon3 jung6 hop6 zok3 se5
+信用合作社	seon3 jung6 hap6 zok3 se5
 信用咭	seon3 jung6 kat1
 汛期	seon3 kei4
 迅雷不及掩耳	seon3 leoi4 bat1 kap6 jim2 ji5
@@ -58258,7 +58258,7 @@ sorry囉	so1 li4 lo1
 上限	soeng6 haan6
 上氣不接下氣	soeng6 hei3 bat1 zip3 haa6 hei3
 上海話	soeng6 hoi2 waa2
-上頜骨	soeng6 hop6 gwat1
+上頜骨	soeng6 hap6 gwat1
 上好	soeng6 hou2
 上空	soeng6 hung1
 上空裝	soeng6 hung1 zong1
@@ -58614,7 +58614,7 @@ title	taai1 tou4
 癱瘓	taan1 wun6
 忐忑不安	taan2 tik1 bat1 on1
 歎咖啡	taan3 gaa3 fe1
-炭水化合物	taan3 seoi2 faa3 hop6 mat6
+炭水化合物	taan3 seoi2 faa3 hap6 mat6
 炭畫	taan3 waa2
 彈結他	taan4 git3 taa1
 彈劾	taan4 hat6
@@ -58789,7 +58789,7 @@ title	taai1 tou4
 投降	tau4 hong4
 投降書	tau4 hong4 syu1
 投降主義	tau4 hong4 zyu2 ji6
-投合	tau4 hop6
+投合	tau4 hap6
 投影	tau4 jing2
 投影機	tau4 jing2 gei1
 投契	tau4 kai3
@@ -58980,7 +58980,7 @@ tissue	ti1 su4
 天蠍座	tin1 hit3 zo6
 天寒地凍	tin1 hon4 dei6 dung3
 天空	tin1 hung1
-天人合一	tin1 jan4 hop6 jat1
+天人合一	tin1 jan4 hap6 jat1
 天有不測風雲	tin1 jau5 bat1 ho2 cak1 fung1 wan4
 天衣無縫	tin1 ji1 mou4 fung4
 天搖地動	tin1 jiu4 dei6 dung6
@@ -59024,7 +59024,7 @@ tissue	ti1 su4
 天眞無邪	tin1 zan1 mou4 ce4
 天字第一號	tin1 zi6 dai6 jat1 hou6
 天災人禍	tin1 zoi1 jan4 wo6
-天作之合	tin1 zok3 zi1 hop6
+天作之合	tin1 zok3 zi1 hap6
 天造地設	tin1 zou6 dei6 cit3
 天誅地滅	tin1 zyu1 dei6 mit6
 天主敎會	tin1 zyu2 gaau3 wui6
@@ -59315,7 +59315,7 @@ tissue	ti1 su4
 同行	tung4 hong4
 同行是冤家	tung4 hong4 si6 jyun1 gaa1
 同日而語	tung4 jat6 ji4 jyu5
-同流合污	tung4 lau4 hop6 wu1
+同流合污	tung4 lau4 hap6 wu1
 同類相殘	tung4 leoi6 soeng1 caan4
 同盟罷工	tung4 mang4 baa6 gung1
 同盟條約	tung4 mang4 tiu4 joek3
@@ -59725,9 +59725,9 @@ tissue	ti1 su4
 隕石	wan5 sek6
 混蛋	wan6 daan6
 運動員	wan6 dung6 jyun4
-混合	wan6 hop6
-混合器	wan6 hop6 hei3
-混合物	wan6 hop6 mat6
+混合	wan6 hap6
+混合器	wan6 hap6 hei3
+混合物	wan6 hap6 mat6
 混血兒	wan6 hyut3 ji4
 混入去	wan6 jap6 heoi3
 暈影	wan6 jing2
@@ -59914,7 +59914,7 @@ van仔	weng1 zai2
 會彈唔會唱	wui5 taan4 m4 wui5 coeng3
 會會哋	wui5 wui2 dei2
 會錯意	wui6 co3 ji3
-匯合	wui6 hop6
+匯合	wui6 hap6
 會陰	wui6 jam1
 會議	wui6 ji5
 會話	wui6 waa2
@@ -60090,7 +60090,7 @@ van仔	weng1 zai2
 雜技表演	zaap6 gei6 bui2 jin2
 集結	zaap6 git3
 鈒骨	zaap6 gwat1
-集合	zaap6 hop6
+集合	zaap6 hap6
 習以爲常	zaap6 ji5 wai4 soeng4
 集腋成裘	zaap6 jik6 sing4 kau4
 雜事纏身	zaap6 si6 cin4 san1
@@ -60533,7 +60533,7 @@ jacket	zek1 kek6
 姊妹	zi2 mui2
 姊妹花	zi2 mui2 faa1
 姊妹篇	zi2 mui2 pin1
-紙皮盒	zi2 pei4 hop6
+紙皮盒	zi2 pei4 hap6
 紙皮石	zi2 pei4 sek6
 仔細	zi2 sai3
 指使	zi2 si2
@@ -60840,7 +60840,7 @@ jacket	zek1 kek6
 正負	zing3 fu6
 正負號	zing3 fu6 hou6
 正敎	zing3 gaau3
-政敎合一	zing3 gaau3 hop6 jat1
+政敎合一	zing3 gaau3 hap6 jat1
 正根	zing3 gan1
 正極	zing3 gik6
 政見	zing3 gin3
@@ -60852,8 +60852,8 @@ jacket	zek1 kek6
 症候羣	zing3 hau6 kwan4
 正氣	zing3 hei3
 正氣凜然	zing3 hei3 lam5 jin4
-正合	zing3 hop6
-正合我意	zing3 hop6 ngo5 ji3
+正合	zing3 hap6
+正合我意	zing3 hap6 ngo5 ji3
 正好	zing3 hou2
 證券	zing3 hyun3
 證券交易稅	zing3 hyun3 gaau1 jik6 seoi3
@@ -61206,8 +61206,8 @@ jacket	zek1 kek6
 藏族人	zong6 zuk6 jan4
 早啲翻嚟	zou2 di1 faan1 lei4
 早瞓	zou2 fan3
-組合	zou2 hop6
-組合而成	zou2 hop6 ji4 sing4
+組合	zou2 hap6
+組合而成	zou2 hap6 ji4 sing4
 早一排	zou2 jat1 paai2
 組員	zou2 jyun4
 組胺	zou2 on1
@@ -61399,7 +61399,7 @@ jacket	zek1 kek6
 中學雞	zung1 hok6 gai1
 中學生	zung1 hok6 saang1
 中學西用	zung1 hok6 sai1 jung6
-綜合	zung1 hop6
+綜合	zung1 hap6
 中空	zung1 hung1
 中醫	zung1 ji1
 中醫藥	zung1 ji1 joek6
@@ -61515,7 +61515,7 @@ jacket	zek1 kek6
 總工會	zung2 gung1 wui6
 總共	zung2 gung6
 總行	zung2 hong4
-總合	zung2 hop6
+總合	zung2 hap6
 總好過	zung2 hou2 gwo3
 總有	zung2 jau5
 總攬	zung2 laam5
@@ -61587,7 +61587,7 @@ jacket	zek1 kek6
 中聽	zung3 teng1
 縱壞	zung3 waai6
 縱橫	zung3 waang4
-縱橫捭闔	zung3 waang4 baai2 hop6
+縱橫捭闔	zung3 waang4 baai2 hap6
 縱橫交錯	zung3 waang4 gaau1 cok3
 縱橫天下	zung3 waang4 tin1 haa6
 種禾	zung3 wo4
@@ -61618,7 +61618,7 @@ jacket	zek1 kek6
 侏儒症	zyu1 jyu4 zing3
 侏羅紀	zyu1 lo4 gei2
 豬籠入水	zyu1 lung4 jap6 seoi2
-珠聯璧合	zyu1 lyun4 bik1 hop6
+珠聯璧合	zyu1 lyun4 bik1 hap6
 豬扒	zyu1 paa2
 豬扒包	zyu1 paa2 baau1
 豬扒飯	zyu1 paa2 faan6

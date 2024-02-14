@@ -35,6 +35,13 @@
 
 本「bun」项「hho」目「muk」其「kgi」实「sbt」是「si」袖「zbu」珍「zbn」粤「jjt」拼「pio」的「dik」简「gan」体「tbi」中「zuo」文「mbn」说「sjt」明「mio」版「ban」，
 
+这个方案大致是把粤拼以韵头、韵腹、韵尾切成三部分来分音。
+
 由「jbu」于「jj」原「jjn」始「ci」作「zhk」者「zg」久「gbu」未「mgi」更「gbo」新「sbn」，
 
 故「gu」而「ji」接「zip」手「sbu」维「wbi」护「wu」。
+
+
+# 重要修改：
+
+不知原作者是以哪里的发音做的编码，可能本人孤陋寡闻但确实从未听过五岭之南有人这样发音的。故而，修正「合hop」等发音编码以粤拼之「hap」为准，
